@@ -6,16 +6,16 @@ Simple demo showing how to use passport.js JWT with React, Express and MongoDB.
 
 You'll need to have Node and MongoDB installed.
 
-`git clone https://github.com/sebnun/reactauth.git && cd reactauth`
+Open terminal and run `git clone https://github.com/sebnun/reactauth.git && cd reactauth`
 
-`npm install`
+then `npm install`
 
-open terminal and run `mongod`
+then `mongod`
 
-open a new tab and run `npm start`
+in a new tab run `npm start`
 
-open a new tab and run `webpack`
+in a new tab run `webpack`
 
-open `http://localhost:3000`
+open `http://localhost:3000` in your favorite browser.
 
 All credit goes to https://vladimirponomarev.com/blog/authentication-in-react-apps-jwt
